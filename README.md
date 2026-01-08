@@ -146,6 +146,12 @@ Workflow:
 The application runs locally and does not require hosting.
 
 ---
+## Opening browser:
+How to open web browser:
+- source ~/myenv/bin/activate
+- python -m streamlit run app.py
+- 
+----
 
 ## Author
 **Name:** Payili Meenakshi  
